@@ -37,9 +37,9 @@ upgrade pip
 ```
 pip install --upgrade pip
 ```
-install requiements 
+install requiements.txt 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 start server 
 
