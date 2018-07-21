@@ -37,7 +37,7 @@ upgrade pip
 ```
 pip install --upgrade pip
 ```
-install requiements 
+install requiements.txt 
 ```
 pip install -r requirements
 ```
